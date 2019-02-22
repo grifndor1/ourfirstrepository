@@ -1,0 +1,67 @@
+{
+    "manifest": {
+      "publishingInformation": {
+        "locales": {
+          "en-AU": {
+            "summary": "Cursing",
+            "examplePhrases": [
+              "Alexa curse" {
+            ],
+            "keywords": [
+              "curse",
+            "name": "Curseing",
+            "description": "alexa will curse raplidy sayin words such as Fuck, Shit and more"\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-CA": {
+            "summary": "Cursing",
+            "examplePhrases": [
+              "Alexa curse",
+            "keywords": [
+              "curse",
+            "name": "Cursing",
+            "description": "alexa will curse raplidy sayin words such as Fuck, Shit and more"\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-GB": {
+            ""summary": "Cursing",
+            "examplePhrases": [
+              "Alexa curse" {
+            ],
+            "keywords": [
+              "curse",
+            "name": "Curseing",
+            "description": "alexa will curse raplidy sayin words such as Fuck, Shit and more"\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },        
+          "en-IN": {
+           "summary": "Cursing",
+            "examplePhrases": [
+              "Alexa curse" {
+            ],
+            "keywords": [
+              "curse",
+            "name": "Curseing",
+            "description": "alexa will curse raplidy sayin words such as Fuck, Shit and more"\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+          "en-US": {
+            "summary": "Cursing",
+            "examplePhrases": [
+              "Alexa curse" {
+            ],
+            "keywords": [
+              "curse",
+            "name": "Curseing",
+            "description": "alexa will curse raplidy sayin words such as Fuck, Shit and more"\n\nAt anytime, you can stop by saying \"Alexa, stop\""
+          },
+        },
+        "category": "RANDOM_STUFF"
+      },
+      "apis": {
+        "custom": {
+          "endpoint": {
+            "sourceDir": "lambda/py",
+            "uri": "ask-custom-fact-default"
+          }
+        }
+      },
+      "manifestVersion": "1.0"
+    }
+  }
